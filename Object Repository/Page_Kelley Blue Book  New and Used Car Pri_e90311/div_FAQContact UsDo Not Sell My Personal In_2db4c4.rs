@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FAQContact UsDo Not Sell My Personal In_2db4c4</name>
+   <tag></tag>
+   <elementGuidId>16483a28-e674-40ca-84ee-c4bfadc053a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1nh907i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='globalFooter']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;FAQ|Contact Us|Do Not Sell My Personal Information|Do Not Process My Sensitive I&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c034ede-3326-479b-9307-9d4f78e34069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1nh907i</value>
+      <webElementGuid>dff8e866-7fd6-4dc3-9abe-989bbe9f16d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAQ|Contact Us|Do Not Sell My Personal Information|Do Not Process My Sensitive Information|About Us|Careers|Corporate|Advertising|Media|Site Map|KBB Brazil|KBB Canada</value>
+      <webElementGuid>98f32b2b-8c6f-487f-b4a3-a27a0c0fcae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;globalFooter&quot;)/div[@class=&quot;css-1vrab63&quot;]/div[@class=&quot;css-1nh907i&quot;]</value>
+      <webElementGuid>fd3a54dc-a6de-4713-91a3-1c0d067b3724</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='globalFooter']/div/div</value>
+      <webElementGuid>5454db3e-13be-476f-bcbc-f0cb9ec42926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse cars for sale nationwide'])[1]/following::div[3]</value>
+      <webElementGuid>bacb7a1d-3dba-46b4-91ed-25ec1ee89fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cars for sale near Los Angeles, CA'])[1]/following::div[3]</value>
+      <webElementGuid>2eb9fa39-de95-4a7d-93bb-416d9e693a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>917bd896-5a21-4283-b39d-57e5c4495ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FAQ|Contact Us|Do Not Sell My Personal Information|Do Not Process My Sensitive Information|About Us|Careers|Corporate|Advertising|Media|Site Map|KBB Brazil|KBB Canada' or . = 'FAQ|Contact Us|Do Not Sell My Personal Information|Do Not Process My Sensitive Information|About Us|Careers|Corporate|Advertising|Media|Site Map|KBB Brazil|KBB Canada')]</value>
+      <webElementGuid>0665369f-b33d-4870-8fda-9a0cb2395e74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

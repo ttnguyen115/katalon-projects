@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shop Cars for Sale</name>
+   <tag></tag>
+   <elementGuidId>fb5f3fc9-fadc-4a11-b1b0-7f877cd01834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='superHeroBannerContainer']/div[2]/div/div/a[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-75y8pg.e1uau9z01</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Shop Cars for Sale&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>10c674c3-4692-4592-b958-dabf29a6306a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>b14db821-5b1f-47e2-8940-219df3a23c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-75y8pg e1uau9z01</value>
+      <webElementGuid>dd160b79-6771-4234-8fa7-64d7946dae07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop Cars for Sale</value>
+      <webElementGuid>66ba370b-59b9-41f6-9a5e-2553dc7e974a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;superHeroBannerContainer&quot;)/div[@class=&quot;emdpnlj4 css-18eyk9p e11el9oi0&quot;]/div[@class=&quot;css-1b1a19r e1qqueke0&quot;]/div[@class=&quot;emdpnlj0 css-1ficdhs e1qqueke1&quot;]/a[@class=&quot;css-vyzx91 e1uau9z02&quot;]/span[@class=&quot;css-75y8pg e1uau9z01&quot;]</value>
+      <webElementGuid>7d37df52-4e7f-434a-8a42-ddf46326fd8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='superHeroBannerContainer']/div[2]/div/div/a[3]/span</value>
+      <webElementGuid>ccc6b074-0409-4d79-b4dd-dfe01c07757d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price New/Used'])[2]/following::span[2]</value>
+      <webElementGuid>3cd1d3b4-0717-44ac-b219-e59ee4be069f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertisement'])[1]/preceding::span[1]</value>
+      <webElementGuid>685c5411-21f1-48ed-b039-a68566758fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Smart'])[1]/preceding::span[1]</value>
+      <webElementGuid>80b06731-8e62-49c9-8ce6-fcf4aa296ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop Cars for Sale']/parent::*</value>
+      <webElementGuid>f1ebfb12-7b12-4e01-8228-d474f66bbf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span</value>
+      <webElementGuid>b36d4f6e-e401-4f8e-bd0d-f2870bfad0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shop Cars for Sale' or . = 'Shop Cars for Sale')]</value>
+      <webElementGuid>d4d536b8-ea95-4805-9558-a802635a3a0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

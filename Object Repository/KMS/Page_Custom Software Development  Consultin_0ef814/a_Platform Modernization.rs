@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Platform Modernization</name>
+   <tag></tag>
+   <elementGuidId>7b8b9795-a12a-42a6-96fa-fd46488ea623</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='primary']/div/div/section[2]/div/div/div/div/div[3]/div[4]/div/div/div[2]/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#primary >> internal:role=link[name=&quot;Platform Modernization&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>105faa9d-3559-4d72-bec2-a97c88dbc4f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kms-technology.com/application-transformation</value>
+      <webElementGuid>8e468020-aee1-4364-b90d-48a9c979fb25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Platform Modernization</value>
+      <webElementGuid>9dc446e9-f38d-4546-b7b2-183fce84b6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;wpb-content-wrapper&quot;]/section[@class=&quot;vc_section vc_custom_1711987644312&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid row-our-software&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;]/div[@class=&quot;kms-solutions-content wpb_column vc_column_container vc_col-sm-6 vc_col-md-4&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;wpb_text_column wpb_content_element&quot;]/div[@class=&quot;wpb_wrapper&quot;]/p[1]/a[1]</value>
+      <webElementGuid>3f286b2f-9799-4817-a043-1cc1414a4791</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='primary']/div/div/section[2]/div/div/div/div/div[3]/div[4]/div/div/div[2]/div/p/a</value>
+      <webElementGuid>501fd704-bcb0-4964-bb9c-2db737795ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Platform Modernization')])[3]</value>
+      <webElementGuid>0884ca25-7c21-4230-b6be-0ce2eb90d6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesforce Consulting &amp; Development'])[1]/following::a[2]</value>
+      <webElementGuid>408718e3-2d29-4345-b593-06d3430e3517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Assurance &amp; Automation Testing'])[1]/following::a[4]</value>
+      <webElementGuid>68988aad-0753-4752-9dc0-5c743cbf6843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI and Machine Learning'])[1]/preceding::a[2]</value>
+      <webElementGuid>eab30896-4682-46d6-9fe0-0180241c95a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discuss Your Project Needs'])[1]/preceding::a[5]</value>
+      <webElementGuid>32c5090d-083d-4b6e-a683-27c5ea880f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://kms-technology.com/application-transformation')])[3]</value>
+      <webElementGuid>fe3d0fad-e5d6-4528-aef5-f56b6df5d27d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/p/a</value>
+      <webElementGuid>0b87673f-d5af-46da-99a3-57cbf80a289b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kms-technology.com/application-transformation' and (text() = 'Platform Modernization' or . = 'Platform Modernization')]</value>
+      <webElementGuid>06ce4b32-28e1-4824-8da9-d6ed34c7d4cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

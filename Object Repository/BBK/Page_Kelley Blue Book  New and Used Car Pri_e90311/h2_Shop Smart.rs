@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Shop Smart</name>
+   <tag></tag>
+   <elementGuidId>af2ee67f-510b-490e-b592-2a013f64515e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='shopSmartTitle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#shopSmartTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Shop Smart&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5236a296-bcd2-427f-93fc-d3bc1c55ea7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>shopSmartTitle</value>
+      <webElementGuid>5c27aa25-d3d7-4c06-97b6-7d690c2b5966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1eagefn e148eed12</value>
+      <webElementGuid>3081ca50-87fc-4505-be14-b13a69a1219a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop Smart</value>
+      <webElementGuid>54ce1d82-22ca-4b22-9f1d-b7e1619c899a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopSmartTitle&quot;)</value>
+      <webElementGuid>d31eb0e4-1831-4637-be94-f83f1c7502a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='shopSmartTitle']</value>
+      <webElementGuid>e10debe6-96fc-4ffd-848b-0370cd6b2e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div[2]/div/div/div/h2</value>
+      <webElementGuid>a6d08bf7-e671-4b0e-8232-d367f1433342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertisement'])[1]/following::h2[1]</value>
+      <webElementGuid>9f8f6b8d-dd1a-44a3-bb92-c1d91aa5fa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Cars for Sale'])[1]/following::h2[1]</value>
+      <webElementGuid>be8c174a-2a89-44f1-a162-2ece87803219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Let Kelley Help You Shop Like a Pro'])[1]/preceding::h2[1]</value>
+      <webElementGuid>b3dcd08d-3e2b-404d-9ba4-d59db9540a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start with Your Current Car'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5283129e-0181-43d5-88bb-4d47a2eb5d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop Smart']/parent::*</value>
+      <webElementGuid>d737b431-85b5-4c98-8212-af962682ba0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/h2</value>
+      <webElementGuid>a55a4387-a56e-42a9-8625-595732fe6c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'shopSmartTitle' and (text() = 'Shop Smart' or . = 'Shop Smart')]</value>
+      <webElementGuid>50c242fc-37bb-4cb7-9bdb-9ef861e262ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

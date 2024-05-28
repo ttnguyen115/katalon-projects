@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Epic pht tng min ph Game hay nht th gii _4a7cdb</name>
+   <tag></tag>
+   <elementGuidId>2a31c228-44d1-40ae-bbd1-50681dc7fcc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.topdetail > h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='admWrapsite']/div/div[3]/div/div[2]/div/div/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Epic phát tặng miễn phí \&quot;Game hay nhất thế giới\&quot; giá 800.000đ&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>102b2ef6-54b5-4761-a37a-13706f947120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-field</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>956849d3-0495-4b9f-a1d8-a5f9d5caef16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-role</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>ce828b81-58af-499d-b2f5-21978b62ba01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Epic phát tặng miễn phí &quot;Game hay nhất thế giới&quot; giá 800.000đ</value>
+      <webElementGuid>84c7e7eb-ea8a-4800-8487-1fd58ee2f1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;admWrapsite&quot;)/div[@class=&quot;wp1000 wfull&quot;]/div[@class=&quot;content clearfix&quot;]/div[@class=&quot;adm-mainsection&quot;]/div[@class=&quot;wp1000&quot;]/div[@class=&quot;contentleft adm-leftsection&quot;]/div[@class=&quot;detail&quot;]/div[@class=&quot;topdetail&quot;]/h1[1]</value>
+      <webElementGuid>7863beb8-781f-4624-840a-1c4d50e43266</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='admWrapsite']/div/div[3]/div/div[2]/div/div/div[2]/h1</value>
+      <webElementGuid>94c3ea11-2173-4479-884e-fca3672d68f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC/Console'])[1]/following::h1[1]</value>
+      <webElementGuid>b3b1b472-b924-4a40-8785-ea8309526dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::h1[1]</value>
+      <webElementGuid>23bfb4fe-3dd7-4c48-b801-915ecbe911d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đông Phong'])[1]/preceding::h1[1]</value>
+      <webElementGuid>450f8c2d-a2f8-435b-84ff-440f19ea2873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h1</value>
+      <webElementGuid>6094d725-269c-45be-8e5a-28beb5889f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Epic phát tặng miễn phí &quot;Game hay nhất thế giới&quot; giá 800.000đ' or . = 'Epic phát tặng miễn phí &quot;Game hay nhất thế giới&quot; giá 800.000đ')]</value>
+      <webElementGuid>67c0ff3c-4bca-474d-8b5c-81c5755896b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_iPhone 15 Pro MaxGalaxy S24 UltraXiaomi_875374</name>
+   <tag></tag>
+   <elementGuidId>64878a9d-78cc-478f-94da-0f64e539659e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/header/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;iPhone 15 Pro MaxGalaxy S24 UltraXiaomi 14iPad 9Đặt hàng1800.6018Cửa hànggần bạn&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f90c389-29f5-4c7e-bef7-c8d134a7f735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full items-center py-2      flex md:gap-x-8</value>
+      <webElementGuid>c1b2e493-088c-4cc4-a992-fd348b1a9344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> iPhone 15 Pro MaxGalaxy S24 UltraXiaomi 14iPad 9Đặt hàng1800.6018Cửa hànggần bạnTra cứuđơn hàngGiỏhàngĐăng nhậpĐăng ký</value>
+      <webElementGuid>85d326c8-c5bc-46d1-9650-1a668308b070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;__className_8248c3&quot;]/div[@class=&quot;relative bg-bgddv antialiased&quot;]/div[@class=&quot;z-0 w-full transition-all&quot;]/header[@class=&quot;page-header flex h-[95px] w-full min-w-full items-center justify-center max-md:h-[100px]&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;w-full items-center py-2      flex md:gap-x-8&quot;]</value>
+      <webElementGuid>57d94ecc-b20a-474b-b554-d6964f6a66ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/header/div/div</value>
+      <webElementGuid>d42d49a1-ed05-469c-9a9b-2323227e6cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div</value>
+      <webElementGuid>f59585b8-553a-4699-b5fd-c5be8618d8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' iPhone 15 Pro MaxGalaxy S24 UltraXiaomi 14iPad 9Đặt hàng1800.6018Cửa hànggần bạnTra cứuđơn hàngGiỏhàngĐăng nhậpĐăng ký' or . = ' iPhone 15 Pro MaxGalaxy S24 UltraXiaomi 14iPad 9Đặt hàng1800.6018Cửa hànggần bạnTra cứuđơn hàngGiỏhàngĐăng nhậpĐăng ký')]</value>
+      <webElementGuid>100eb7a3-782a-4e79-b64b-b8881631746f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shop for a Car</name>
+   <tag></tag>
+   <elementGuidId>83dfd93b-cfbe-4c43-99f5-84180e0cf8ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountNode']/footer/div[2]/div/div/div/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.display-flex.flex-row.justify-content-between</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Shop for a Car&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3f9e3f9-8fa6-45c4-93f7-c14c2cd8c6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>136ea671-8278-48dc-bfe6-6b006199a18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display-flex flex-row justify-content-between</value>
+      <webElementGuid>a8515602-240b-49ae-8dd8-169a7e2b9261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop for a Car</value>
+      <webElementGuid>ae95313a-9f51-4353-bee3-2507c482268e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountNode&quot;)/footer[@class=&quot;footer&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row sitemap&quot;]/div[@class=&quot;col col-xs-12 col-sm-3 text-inverse section ae-exclude&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;toggled-dropdown text-inverse padding-top-4 padding-top-sm-0 dropdown-panel-content&quot;]/label[@class=&quot;toggled-dropdown-label text-bold display-block display-sm-inline-block&quot;]/span[@class=&quot;display-flex flex-row justify-content-between&quot;]</value>
+      <webElementGuid>c3e5f60c-3a2b-4e6d-9079-8c6dafafb6bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountNode']/footer/div[2]/div/div/div/div/div/label/span</value>
+      <webElementGuid>33a584c6-9f02-455a-9220-0205b8487122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback'])[1]/following::span[1]</value>
+      <webElementGuid>fa19222b-3b5f-4cf4-8b02-7755283928dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financing and Credit'])[1]/following::span[2]</value>
+      <webElementGuid>725b1ef2-0057-4c77-afa1-63965063e00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Cars'])[2]/preceding::span[3]</value>
+      <webElementGuid>eb67d7d1-42e3-4e6b-8b7b-6e8f1ff30890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Used Cars'])[2]/preceding::span[3]</value>
+      <webElementGuid>b1a6b7d6-c549-463d-8065-9f21c880a741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop for a Car']/parent::*</value>
+      <webElementGuid>167307d2-adc1-4c41-9967-28a6db2f8ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/label/span</value>
+      <webElementGuid>54b6ad2e-54ca-4cd6-b866-8bac39069321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shop for a Car' or . = 'Shop for a Car')]</value>
+      <webElementGuid>68af296a-28d3-478d-890f-1076a56e6715</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

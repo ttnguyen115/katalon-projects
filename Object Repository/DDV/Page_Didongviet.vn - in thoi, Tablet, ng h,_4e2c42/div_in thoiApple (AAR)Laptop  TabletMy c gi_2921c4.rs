@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_in thoiApple (AAR)Laptop  TabletMy c gi_2921c4</name>
+   <tag></tag>
+   <elementGuidId>10d3ab77-57fd-4ab1-b0ac-ec779d3afbfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/main/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.group</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0163b875-f57e-41b7-b382-b9067df32251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative mb-2 min-h-[410px] antialiased  max-md:min-h-[327px] max-md:overflow-hidden max-md:px-2 md:grid md:grid-cols-12 md:gap-2</value>
+      <webElementGuid>26ac7e17-6946-4881-b1d6-bac1636e775d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Điện thoạiApple (AAR)Laptop / TabletMáy cũ giá rẻPhụ kiệnSức khoẻ, Làm đẹpThiết bị đeo tayThiết bị âm thanhThu cũ đổi mớiĐặt vé máy bayKhuyến mãiCông nghệ 24HTuyển dụng</value>
+      <webElementGuid>ea4cef7f-8c31-47aa-90c8-89f35dcd11b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;__className_8248c3&quot;]/div[@class=&quot;relative bg-bgddv antialiased&quot;]/main[@class=&quot;flex w-full flex-col items-center justify-start py-1&quot;]/div[@class=&quot;container w-full&quot;]/div[@class=&quot;container z-0 antialiased&quot;]/div[@class=&quot;group relative mb-2 min-h-[410px] antialiased  max-md:min-h-[327px] max-md:overflow-hidden max-md:px-2 md:grid md:grid-cols-12 md:gap-2&quot;]</value>
+      <webElementGuid>0fea09e4-de47-4f5d-ba0d-278d351736cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/main/div/div/div</value>
+      <webElementGuid>8e773906-3583-4b30-9a85-f87c5c702edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/following::div[10]</value>
+      <webElementGuid>a3d6019f-0b70-4cbd-868c-3777a94b5b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/following::div[11]</value>
+      <webElementGuid>bb33bfc4-fca0-4ecc-9f38-86c3810ad1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEAL MÁY CŨ'])[1]/preceding::div[234]</value>
+      <webElementGuid>b965b836-0a47-4714-aa26-fe98ad508823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐIỆN THOẠI | PHỤ KIỆN GIÁ RẺ'])[1]/preceding::div[235]</value>
+      <webElementGuid>41db1114-1e2b-4ee2-bf9c-ef423d583f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/main/div/div/div</value>
+      <webElementGuid>24284bf4-d09d-4679-95ef-887e22ec9cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Điện thoạiApple (AAR)Laptop / TabletMáy cũ giá rẻPhụ kiệnSức khoẻ, Làm đẹpThiết bị đeo tayThiết bị âm thanhThu cũ đổi mớiĐặt vé máy bayKhuyến mãiCông nghệ 24HTuyển dụng' or . = 'Điện thoạiApple (AAR)Laptop / TabletMáy cũ giá rẻPhụ kiệnSức khoẻ, Làm đẹpThiết bị đeo tayThiết bị âm thanhThu cũ đổi mớiĐặt vé máy bayKhuyến mãiCông nghệ 24HTuyển dụng')]</value>
+      <webElementGuid>16c43ad8-1c2b-4b4e-8cb3-ab55aabedeab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/main/div/div/div/div/div</value>
+      <webElementGuid>f8b81e85-3272-476e-8bd0-bbaa9110ef7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/following::div[12]</value>
+      <webElementGuid>ebccb4ef-205d-4301-aefb-741821cc3d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/following::div[13]</value>
+      <webElementGuid>d62a9f0a-47b1-4ce3-acce-bbec2a7ba1c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEAL MÁY CŨ'])[1]/preceding::div[264]</value>
+      <webElementGuid>5fc63dca-2cf9-4a0c-b7f0-19d12d6f9829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐIỆN THOẠI | PHỤ KIỆN GIÁ RẺ'])[1]/preceding::div[265]</value>
+      <webElementGuid>5cb55eb6-f014-458d-a79a-d3fb4f439fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/main/div/div/div/div/div</value>
+      <webElementGuid>390ea6b1-8bb4-4142-a9e8-0ebd6e38b6a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

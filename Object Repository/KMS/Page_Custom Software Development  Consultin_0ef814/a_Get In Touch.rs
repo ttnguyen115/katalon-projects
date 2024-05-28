@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get In Touch</name>
+   <tag></tag>
+   <elementGuidId>72597a95-5b29-4972-98a6-02b62183736f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mega-menu-item-10816']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mega-menu-item-10816 > a.mega-menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Get In Touch&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>603985d3-7cf9-4d36-8afa-2117750d7058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mega-menu-link</value>
+      <webElementGuid>200c7c05-a448-4374-823b-1706f6224779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kms-technology.com/contact</value>
+      <webElementGuid>983b6666-ec72-4250-ad38-345eaeecaebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8319c743-9ec1-42f6-9be3-c78ec6847e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get In Touch</value>
+      <webElementGuid>5ea4c3d0-6d1d-4aab-b2ec-61f97022ca8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mega-menu-item-10816&quot;)/a[@class=&quot;mega-menu-link&quot;]</value>
+      <webElementGuid>10429a79-7da5-4f3e-b99e-a1b1b49b79e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mega-menu-item-10816']/a</value>
+      <webElementGuid>ec971d84-0d11-4633-b7d1-43b1fcf96829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get In Touch')]</value>
+      <webElementGuid>8b6c31a1-d8a7-4352-aa41-907a76f6460e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success Stories'])[1]/following::a[1]</value>
+      <webElementGuid>afd4e8a7-c8ea-4efc-b473-eefaddf090e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KMS Blog'])[1]/following::a[2]</value>
+      <webElementGuid>9ceaab4a-150f-4ba4-a658-eecae630bc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Engineering'])[2]/preceding::a[2]</value>
+      <webElementGuid>01623339-1009-4660-90cb-13c12699de6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA &amp; Automation Testing'])[2]/preceding::a[3]</value>
+      <webElementGuid>d0471700-3dd1-4f44-8d7f-4d69e3551208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get In Touch']/parent::*</value>
+      <webElementGuid>78fc31b1-e331-4584-9ee2-eb7af59923a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kms-technology.com/contact')]</value>
+      <webElementGuid>4d417c0b-3a09-416c-aa1b-91d5ca09fe4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>41cc4032-ccb9-4ef9-83f2-8496efcfe2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kms-technology.com/contact' and (text() = 'Get In Touch' or . = 'Get In Touch')]</value>
+      <webElementGuid>70cdfb34-0863-4cc7-820a-f89e1cec9202</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

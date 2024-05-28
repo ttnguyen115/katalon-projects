@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WE ARE</name>
+   <tag></tag>
+   <elementGuidId>1c6289e2-b86d-4227-801d-f54de671a99b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='our-missions']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.section_name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;WE ARE&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02aa869c-e71d-41b6-a476-dc4d6f76e511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section_name</value>
+      <webElementGuid>c2db6bbe-5971-4b4b-b28a-df7856840401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WE ARE</value>
+      <webElementGuid>e25249d9-fdac-4031-bf17-3688cdf4bafa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;our-missions&quot;)/div[@class=&quot;component-content&quot;]/div[@class=&quot;component fsoft-promo our-mission&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;container-full-grid&quot;]/div[@class=&quot;section_name&quot;]</value>
+      <webElementGuid>f7d13d9e-cc0b-4b29-88d6-f2a3755e248e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='our-missions']/div/div/div/div/div</value>
+      <webElementGuid>0378e48a-e36b-4178-a4f4-3dcac1b1d2ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FPT Software Listed in Gartner® Report For Public Cloud Services'])[4]/following::div[7]</value>
+      <webElementGuid>c9684f24-8ca7-42c4-8bf2-d41bb5f69628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a'])[1]/preceding::div[1]</value>
+      <webElementGuid>26f77d4b-feaf-4fa6-a042-6bf3fab02069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='comprehensive'])[1]/preceding::div[1]</value>
+      <webElementGuid>daeea731-a09a-4598-8481-2dfc54e5e16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WE ARE']/parent::*</value>
+      <webElementGuid>ae6dd28a-838f-454e-a305-050f7fe5341b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>9d7487d1-06ea-49fb-b407-98b7e0fd4eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WE ARE' or . = 'WE ARE')]</value>
+      <webElementGuid>d14744b4-068b-4280-8255-2e12d59249e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

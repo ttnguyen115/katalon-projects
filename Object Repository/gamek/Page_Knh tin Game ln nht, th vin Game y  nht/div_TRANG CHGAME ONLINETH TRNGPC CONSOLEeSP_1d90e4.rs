@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TRANG CHGAME ONLINETH TRNGPC CONSOLEeSP_1d90e4</name>
+   <tag></tag>
+   <elementGuidId>41b931e1-b199-42b3-bbea-084740fdd71c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bottom_menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='admWrapsite']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;TRANG CHỦGAME ONLINETHỊ TRƯỜNGPC CONSOLEeSPORTSGAME MOBILERSS&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>98e207f0-96a0-4cea-943c-f3d0dbe3510e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bottom_menu</value>
+      <webElementGuid>a45363bf-2c53-48c7-86c3-21f004e8be8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRANG CHỦGAME ONLINETHỊ TRƯỜNGPC CONSOLEeSPORTSGAME MOBILERSS</value>
+      <webElementGuid>bce1c530-cfa1-42d4-b9fb-5a73cc0fa2a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;admWrapsite&quot;)/div[@class=&quot;footer fl&quot;]/div[@class=&quot;bottom_menu&quot;]</value>
+      <webElementGuid>2230cd95-295b-4299-82f0-b4663f25bf3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='admWrapsite']/div[2]/div</value>
+      <webElementGuid>db1a1811-7435-4025-8800-7d6052a37c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admicro AdX'])[5]/following::div[5]</value>
+      <webElementGuid>9f2c0cc8-49af-4513-b20f-64f7e6df7937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admicro AdX'])[4]/following::div[20]</value>
+      <webElementGuid>1153bdad-78c8-4c67-b9c6-d146dfd722b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>0ae9f415-b130-4eb6-a447-f81ec4dd6efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TRANG CHỦGAME ONLINETHỊ TRƯỜNGPC CONSOLEeSPORTSGAME MOBILERSS' or . = 'TRANG CHỦGAME ONLINETHỊ TRƯỜNGPC CONSOLEeSPORTSGAME MOBILERSS')]</value>
+      <webElementGuid>8e099e72-1717-47ec-8b7c-6557eb52a66d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Contact Us_icon-arrow-down</name>
+   <tag></tag>
+   <elementGuidId>aa32c63b-4c8b-4056-b36b-a0364b08d2cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/section/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-arrow-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>987cc66b-2ee2-4cfb-8b4c-0dbbf8cbae9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-arrow-down</value>
+      <webElementGuid>365df2a2-ef01-469c-a9e5-1ec9a386a11c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/section[@class=&quot;hero&quot;]/button[@class=&quot;btn btn-scroll-to&quot;]/i[@class=&quot;icon-arrow-down&quot;]</value>
+      <webElementGuid>87ecdf04-eec9-43e3-8f7b-4c2199012403</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/section/button/i</value>
+      <webElementGuid>748f8106-a740-451c-8d4b-8f11eeb00ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>96d1b00e-11ac-4ddc-90e9-857a601c4b07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

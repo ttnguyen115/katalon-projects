@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c5b6283c-ff93-475b-9479-a2bc217622be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer']/div/div/div/div/div/div[2]/div/div/div/ul/li/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.social-connect-list > li > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.social-connect-list > li > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bad24275-d28b-4f99-bf54-8b2ca7193330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/-/media/project/fpt-software/fso/social-media/twitter.webp?as=1&amp;iar=0&amp;extension=webp&amp;modified=20230721114045&amp;hash=8756C98F863A9B9D4EBBC93D1C3C1D30</value>
+      <webElementGuid>150284da-5633-452b-9617-84d7c9528b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>3fc43b6d-cb92-409e-9aac-948fdb3aeebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;component fsoft-container bgr-grey-shade-color p-t-40-mb p-t-56&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;component fsoft-container container-full-grid&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;row component fsoft-column-splitter&quot;]/div[@class=&quot;col-sm-12 col-lg-4&quot;]/div[@class=&quot;component social-connect&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;social-connect-wrapper&quot;]/ul[@class=&quot;social-connect-list&quot;]/li[1]/a[1]/img[1]</value>
+      <webElementGuid>316dc54f-99bc-422e-a614-378074c63456</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer']/div/div/div/div/div/div[2]/div/div/div/ul/li/a/img</value>
+      <webElementGuid>a372922c-d4ea-440a-a658-6f0ec4053569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li/a/img</value>
+      <webElementGuid>71ec44c3-816b-498c-8114-4e1bc342ccb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/-/media/project/fpt-software/fso/social-media/twitter.webp?as=1&amp;iar=0&amp;extension=webp&amp;modified=20230721114045&amp;hash=8756C98F863A9B9D4EBBC93D1C3C1D30']</value>
+      <webElementGuid>a70c9240-134b-42f8-b10b-59c074f619af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

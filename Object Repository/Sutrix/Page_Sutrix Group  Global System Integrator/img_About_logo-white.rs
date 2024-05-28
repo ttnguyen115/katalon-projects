@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_About_logo-white</name>
+   <tag></tag>
+   <elementGuidId>16ccb950-df86-47f7-ae90-3454a8e7f16e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Sutrix Group']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.logo-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sutrix Group&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a2f455cf-6fa7-4b59-bb3c-e027f8ac0239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo-white</value>
+      <webElementGuid>9aafe8a0-6546-4ca2-9de5-29ecd759630b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/export/sites/sutrixgroup/.galleries/WhiteOnly.svg</value>
+      <webElementGuid>2798245f-9853-4bd2-9689-5e4d9cc5c216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sutrix Group</value>
+      <webElementGuid>823a6f6b-c56f-46fc-b19a-f8b4badb3e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>163</value>
+      <webElementGuid>e0ff997b-3169-4d1c-aa7b-5f15e9a51aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>34</value>
+      <webElementGuid>070a9b74-cc59-4c3d-8636-ebbb62c16142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths desktop landscape windows windows10 windows10_0 64bit chrome chrome124 chrome124_0 webkit en-us show--consent&quot;]/body[@class=&quot;--scroll-15 --scroll-17&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;container-fluid&quot;]/nav[@class=&quot;navbar navbar-expand-lg&quot;]/a[@class=&quot;navbar-brand&quot;]/img[@class=&quot;logo-white&quot;]</value>
+      <webElementGuid>ff1b70b8-598f-47f9-9bc8-074bc549059a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sutrix Group']</value>
+      <webElementGuid>c053d820-d89f-4c13-87bd-b39386f21e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>0d6a2673-bd4b-4981-bc34-4bcf98215dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/export/sites/sutrixgroup/.galleries/WhiteOnly.svg' and @alt = 'Sutrix Group']</value>
+      <webElementGuid>2bbd1412-ff86-41d9-9a01-91fe7a73d743</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

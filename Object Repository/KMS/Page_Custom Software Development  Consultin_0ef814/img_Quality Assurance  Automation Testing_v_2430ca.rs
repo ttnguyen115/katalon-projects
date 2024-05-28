@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Quality Assurance  Automation Testing_v_2430ca</name>
+   <tag></tag>
+   <elementGuidId>701c91a1-62f4-4307-89e0-da634501998f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='primary']/div/div/section[2]/div/div/div/div/div[3]/div[3]/div/div/div/figure/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wpb_single_image.wpb_content_element.vc_align_left.wpb_content_element.vc_custom_1711532992264 > figure.wpb_wrapper.vc_figure > a.vc_single_image-wrapper.vc_box_border_grey > img.vc_single_image-img.attachment-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(3) > .vc_column-inner > div > .wpb_single_image > .wpb_wrapper > .vc_single_image-wrapper >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>696b3dba-dba9-466b-b257-b78779c5aed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>216829ee-17f0-4db2-870f-0d0bec489de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>341</value>
+      <webElementGuid>595a28de-6bed-40c5-8aed-373f5f58ec6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>248</value>
+      <webElementGuid>7bd16df8-89ce-4c59-9a3b-8a8dda02e3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://kms-technology.com/wp-content/uploads/2024/03/Salesforce-Development-Consulting.jpeg</value>
+      <webElementGuid>524f4ba9-d42d-4552-acb7-5e53dcef2b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vc_single_image-img attachment-full</value>
+      <webElementGuid>771b431d-8e99-4bb2-bddd-9b8b4ea41ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Salesforce Development &amp; Consulting</value>
+      <webElementGuid>7972d4e5-0475-49a7-9638-f5d896f630d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://kms-technology.com/wp-content/uploads/2024/03/Salesforce-Development-Consulting.jpeg 341w, https://kms-technology.com/wp-content/uploads/2024/03/Salesforce-Development-Consulting-300x218.jpeg 300w</value>
+      <webElementGuid>87e5d9f8-8f23-448c-8bbd-ebe2c5db40c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 341px) 100vw, 341px</value>
+      <webElementGuid>243b1171-b555-4456-a5ed-db598f78b763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;wpb-content-wrapper&quot;]/section[@class=&quot;vc_section vc_custom_1711987644312&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid row-our-software&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;]/div[@class=&quot;kms-solutions-content wpb_column vc_column_container vc_col-sm-6 vc_col-md-4&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;wpb_single_image wpb_content_element vc_align_left wpb_content_element vc_custom_1711532992264&quot;]/figure[@class=&quot;wpb_wrapper vc_figure&quot;]/a[@class=&quot;vc_single_image-wrapper   vc_box_border_grey&quot;]/img[@class=&quot;vc_single_image-img attachment-full&quot;]</value>
+      <webElementGuid>a56af43b-18ec-47cb-97d9-bba41f673bab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='primary']/div/div/section[2]/div/div/div/div/div[3]/div[3]/div/div/div/figure/a/img</value>
+      <webElementGuid>0cbdf864-a331-4c34-a48b-d2af1cd42012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Salesforce Development &amp; Consulting']</value>
+      <webElementGuid>01372e40-beab-47bf-b427-996c552e795d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/figure/a/img</value>
+      <webElementGuid>e73b2c57-7379-42ed-a94a-d8042a28f6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://kms-technology.com/wp-content/uploads/2024/03/Salesforce-Development-Consulting.jpeg' and @title = 'Salesforce Development &amp; Consulting']</value>
+      <webElementGuid>b527e26b-8449-4783-a3a8-d9f201cc2f66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

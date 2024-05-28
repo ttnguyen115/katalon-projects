@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Login_Empty_User_Pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05e43164-971c-4a89-a7f3-9bb2644d4019</testCaseGuid>
+</TestCaseEntity>

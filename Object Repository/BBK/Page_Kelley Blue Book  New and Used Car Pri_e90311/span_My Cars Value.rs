@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Cars Value</name>
+   <tag></tag>
+   <elementGuidId>06b88a9e-7052-43d2-adf3-662adb069f1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='superHeroBannerContainer']/div[2]/div/div/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;My Car's Value&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1dfee78e-9ce7-4bfa-810f-47067523695f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>29bf6063-e386-460a-a2e2-7a8a8138babe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-hwgv0r e1uau9z01</value>
+      <webElementGuid>63565bff-ed0c-4d80-b3f6-a69444f2f4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Car's Value</value>
+      <webElementGuid>b6693202-dcb2-49a5-95ea-0daa49e1f1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;superHeroBannerContainer&quot;)/div[@class=&quot;emdpnlj4 css-18eyk9p e11el9oi0&quot;]/div[@class=&quot;css-1b1a19r e1qqueke0&quot;]/div[@class=&quot;emdpnlj0 css-1ficdhs e1qqueke1&quot;]/a[@class=&quot;css-vyzx91 e1uau9z02&quot;]/span[@class=&quot;css-hwgv0r e1uau9z01&quot;]</value>
+      <webElementGuid>8896901c-8eff-4de2-8799-600f74a27e3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='superHeroBannerContainer']/div[2]/div/div/a[2]/span</value>
+      <webElementGuid>131b7086-d32c-42b8-ae6b-0afb66d991d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price New/Used'])[2]/following::span[1]</value>
+      <webElementGuid>244e0147-634e-414b-83fb-8d16760dd1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Cars for Sale'])[1]/preceding::span[1]</value>
+      <webElementGuid>fa425117-09c2-4dd4-b1f4-1afa3c634123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertisement'])[1]/preceding::span[2]</value>
+      <webElementGuid>5532ace1-7fb1-44de-a732-e7c85b213f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>1aaef819-5afc-4b29-ba48-f733b32d3095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;My Car&quot; , &quot;'&quot; , &quot;s Value&quot;) or . = concat(&quot;My Car&quot; , &quot;'&quot; , &quot;s Value&quot;))]</value>
+      <webElementGuid>e65983b3-ce5a-4ab9-86c9-aa4c7bc73cf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

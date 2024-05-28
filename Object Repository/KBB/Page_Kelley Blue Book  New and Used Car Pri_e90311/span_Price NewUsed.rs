@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Price NewUsed</name>
+   <tag></tag>
+   <elementGuidId>d5c28611-900c-49ed-bdd8-6ca03180a2bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='superheroSection']/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-hwgv0r.e1uau9z01</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Price New/Used&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64efdb0f-c89b-42af-82f6-2903eaede674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>32b0ac4f-0d0d-45fb-af64-704963e7f05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-hwgv0r e1uau9z01</value>
+      <webElementGuid>143c47a5-47ce-484f-8e0d-a28871708ce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price New/Used</value>
+      <webElementGuid>29f21952-fc18-4359-aad8-c8269fa0ea42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;superheroSection&quot;)/div[@class=&quot;emdpnlj4 css-18eyk9p e11el9oi0&quot;]/div[@class=&quot;css-1b1a19r e1qqueke0&quot;]/div[@class=&quot;emdpnlj0 css-1ficdhs e1qqueke1&quot;]/a[@class=&quot;css-vyzx91 e1uau9z02&quot;]/span[@class=&quot;css-hwgv0r e1uau9z01&quot;]</value>
+      <webElementGuid>22849895-495b-4555-9709-3b6f03311d89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='superheroSection']/div/div/div/a/span</value>
+      <webElementGuid>0f69a291-acd1-4f88-9668-2138578cbbe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelley Knows Cars'])[1]/following::span[1]</value>
+      <webElementGuid>0bae5daa-2ba5-4305-84b1-f3f3f64d07ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Cars for Sale'])[1]/preceding::span[2]</value>
+      <webElementGuid>38a3532e-9019-48a8-8046-1bb035555611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>a9056579-e4cf-4f2f-a32a-b06b027298fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Price New/Used' or . = 'Price New/Used')]</value>
+      <webElementGuid>8de03215-124a-4a04-9461-609253bd501c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
