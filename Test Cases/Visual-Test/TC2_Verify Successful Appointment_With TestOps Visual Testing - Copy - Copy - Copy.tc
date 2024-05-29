@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can book an appointment sucessfully.
+Pre-condition: Users have already logged in
+
+Steps:
+- Fill in appoinment's information
+- Click on appointment's button
+
+Expected results:
+Appointment Confirmation page is displayed</description>
+   <name>TC2_Verify Successful Appointment_With TestOps Visual Testing - Copy - Copy - Copy</name>
+   <tag></tag>
+   <comment>Story: Book an appointment
+Given that the user has logged into their account
+And Appointment page is displayed
+When he fills in valid information in Appointment page
+Then he should be able to book a new appointment</comment>
+   <testCaseGuid>56b560db-87ed-418e-a598-3f533d84c01c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>380c843b-55ca-4e0e-8bc4-1d9cd905c1c9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef69ea20-f441-4829-bc67-5d4369d2e0c3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5c9c418-96de-4285-a5a5-9ce301b9f9f7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c00f659e-f578-4046-88fe-8a91833fa104</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38820f3f-3bf4-4bd2-85f3-fb4d85bb25e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34a6eac9-ea9f-4242-883e-d31d6772562b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f17dfcb0-4c95-4aba-8ef3-99309d5d358a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Facility_Combobox')</defaultValue>
+      <description></description>
+      <id>380c843b-55ca-4e0e-8bc4-1d9cd905c1c9</id>
+      <masked>false</masked>
+      <name>FacilityObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Date_Input')</defaultValue>
+      <description></description>
+      <id>ef69ea20-f441-4829-bc67-5d4369d2e0c3</id>
+      <masked>false</masked>
+      <name>DateObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Comment_Input')</defaultValue>
+      <description></description>
+      <id>c5c9c418-96de-4285-a5a5-9ce301b9f9f7</id>
+      <masked>false</masked>
+      <name>CommentObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Medicare_Choices')</defaultValue>
+      <description></description>
+      <id>c00f659e-f578-4046-88fe-8a91833fa104</id>
+      <masked>false</masked>
+      <name>MedicareChoicesObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Make_Appointment_Dialog')</defaultValue>
+      <description></description>
+      <id>38820f3f-3bf4-4bd2-85f3-fb4d85bb25e3</id>
+      <masked>false</masked>
+      <name>AppointmentDialogObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Comment_Label')</defaultValue>
+      <description></description>
+      <id>34a6eac9-ea9f-4242-883e-d31d6772562b</id>
+      <masked>false</masked>
+      <name>CommentLabelObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Make_Appointment_Label')</defaultValue>
+      <description></description>
+      <id>f17dfcb0-4c95-4aba-8ef3-99309d5d358a</id>
+      <masked>false</masked>
+      <name>MakeAppointmentLabel</name>
+   </variable>
+</TestCaseEntity>

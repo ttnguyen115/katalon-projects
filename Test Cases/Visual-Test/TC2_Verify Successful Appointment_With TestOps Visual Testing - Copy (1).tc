@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can book an appointment sucessfully.
+Pre-condition: Users have already logged in
+
+Steps:
+- Fill in appoinment's information
+- Click on appointment's button
+
+Expected results:
+Appointment Confirmation page is displayed</description>
+   <name>TC2_Verify Successful Appointment_With TestOps Visual Testing - Copy (1)</name>
+   <tag></tag>
+   <comment>Story: Book an appointment
+Given that the user has logged into their account
+And Appointment page is displayed
+When he fills in valid information in Appointment page
+Then he should be able to book a new appointment</comment>
+   <testCaseGuid>91fc3921-b4e3-4d62-9778-94b244f946ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7020f22f-ccb2-4a1f-86c2-76e0c8aae801</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26daafb7-0e1e-4d5d-a934-70681350e673</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c893b9a5-b728-4254-b894-a51008916cb2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b4f45b8-30ee-4907-973e-d042667818d1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfcf8fe7-bbe9-4216-9440-ac053eaaa468</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e31f49fb-35c5-444a-884d-a3bc91d3b645</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>286fb537-1ab1-459a-b9a8-0323b53d6c44</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Facility_Combobox')</defaultValue>
+      <description></description>
+      <id>7020f22f-ccb2-4a1f-86c2-76e0c8aae801</id>
+      <masked>false</masked>
+      <name>FacilityObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Date_Input')</defaultValue>
+      <description></description>
+      <id>26daafb7-0e1e-4d5d-a934-70681350e673</id>
+      <masked>false</masked>
+      <name>DateObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Comment_Input')</defaultValue>
+      <description></description>
+      <id>c893b9a5-b728-4254-b894-a51008916cb2</id>
+      <masked>false</masked>
+      <name>CommentObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Medicare_Choices')</defaultValue>
+      <description></description>
+      <id>3b4f45b8-30ee-4907-973e-d042667818d1</id>
+      <masked>false</masked>
+      <name>MedicareChoicesObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Make_Appointment_Dialog')</defaultValue>
+      <description></description>
+      <id>dfcf8fe7-bbe9-4216-9440-ac053eaaa468</id>
+      <masked>false</masked>
+      <name>AppointmentDialogObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Comment_Label')</defaultValue>
+      <description></description>
+      <id>e31f49fb-35c5-444a-884d-a3bc91d3b645</id>
+      <masked>false</masked>
+      <name>CommentLabelObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Make_Appointment_Label')</defaultValue>
+      <description></description>
+      <id>286fb537-1ab1-459a-b9a8-0323b53d6c44</id>
+      <masked>false</masked>
+      <name>MakeAppointmentLabel</name>
+   </variable>
+</TestCaseEntity>
